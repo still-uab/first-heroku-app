@@ -1,14 +1,23 @@
 {
-  "name": "helloworld",
+  "name": "gulpjs4-2824056",
   "version": "1.0.0",
-  "description": "hello world example",
+  "description": "This is the repository for the LinkedIn Learning course on Gulp.js 4. The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Steven Till",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkedInLearning/gulpjs4-2824056.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1"
+  "bugs": {
+    "url": "https://github.com/LinkedInLearning/gulpjs4-2824056/issues"
+  },
+  "homepage": "https://github.com/LinkedInLearning/gulpjs4-2824056#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
   }
 }
